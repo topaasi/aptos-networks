@@ -4,3 +4,5 @@
 - `ait3/`: Aptos Incentivized Testnet 3, short lived testing network.
 - `testnet/`: Aptos stable testnet, data will be persisted during upgrades. 
 - `mainnet/`: Aptos Mainnet
+
+/devnet
